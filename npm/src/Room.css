@@ -1,0 +1,19 @@
+.colom {
+  border: none;
+  border-radius: 10px;
+  width: 32%;
+  height: 120px;
+text-align: center;
+  margin-left: 5px;
+  background-color: rgb(238, 247, 250);
+  
+}
+.colom:hover{
+  background-color: rgb(219, 235, 240);
+
+}
+#add{
+  border: 1px dashed purple;
+  background-color: white;
+  
+}

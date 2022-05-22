@@ -1,0 +1,27 @@
+.con{
+     background-color: rgb(238, 247, 250);
+   width: 50%;
+   margin: 0 auto;
+   border-radius: 35px;
+   font-size: 27px;
+ 
+
+   
+}
+.con i{
+     color: black;
+     transition: transform .2s; /* Animation */
+     margin: 0 auto;
+    
+}
+ .con i:hover{
+     transform: scale(1.5);
+     -ms-transform: scale(1.5); /* IE 9 */
+  -webkit-transform: scale(1.5); /* Safari 3-8 */
+  transform: scale(1.5);
+     
+}
+#hov:hover{
+     transform: scale(1.5);
+
+}
